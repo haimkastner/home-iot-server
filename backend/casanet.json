@@ -1,0 +1,24 @@
+{
+    "defaultUser": {
+        "displayName": "default user",
+        "email": "[machine-mac-address]@casa-net.online",
+        "password": "casanet",
+        "ignoreTfa": true,
+        "scope": "adminAuth"
+    },
+    "timelineDaysLength": 15,
+    "http": {
+        "httpPort": 3000,
+        "httpsPort": 443,
+        "useHttps": false
+    },
+    "requestsLimit": {
+        "windowsMs": 1.2e+6,
+        "maxRequests": 1500
+    },
+    "homePosition": {
+        "latitude": 32.816,
+        "longitude": 34.983
+    },
+    "commandsRepoUrl" : "https://rf-commands-repo.herokuapp.com"
+}
