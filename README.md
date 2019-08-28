@@ -1,3 +1,8 @@
+# The project migrate to his new home at [casanet/casanet-server](https://github.com/casanet/casanet-server)  and the codebase here is for legacy support only!
+
+---
+
+
 ![Screenshot](./docs/images/logo-wide.png)
 
 Let's create a smart home, without giving anyone access to our house 😊.
